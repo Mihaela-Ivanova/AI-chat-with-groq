@@ -1,1 +1,2 @@
-# AI-chat-with-groq
+# 🤖 Chat AI with Groq API
+
