@@ -1,3 +1,5 @@
+![Екранна снимка 2024-11-14 144604](https://github.com/user-attachments/assets/5d298fa8-adb0-4236-a7f7-8283f080d8a1)
+
 # 🤖 Chat AI with Groq API
 
 # 🎯 Project goal
