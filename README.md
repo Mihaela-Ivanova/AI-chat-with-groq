@@ -2,7 +2,7 @@
 
 # 🤖 Chat AI with Groq API
 
-🚀 In this project, you will bring artificial intelligence to life by creating a chatbot powered by the Groq API. This chatbot will respond to user messages in real time using advanced AI models! Instead of a GUI, we keep it sleek and console-based - just like real-world API integrations. 🚀
+✈️ In this project, you will bring artificial intelligence to life by creating a chatbot powered by the Groq API. This chatbot will respond to user messages in real time using advanced AI models! Instead of a GUI, we keep it sleek and console-based - just like real-world API integrations.
 
 # 🎯 Project Goal
 
@@ -11,4 +11,4 @@ The project is designed to be usable in multiple languages. Let's dive in! 🚀
 
 # 💻 Skills
 
-This project is an exciting way to improve your coding skills and learn API integration! Be creative and have fun! 🎉
+🎉 This project is an exciting way to improve your coding skills and learn API integration! Be creative and have fun! 🎉
